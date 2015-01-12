@@ -11,4 +11,4 @@ This is a smalll proof of concept to ilustrate different uses of the Latch servi
 
 
 > ###Disclaimer###
->Please note that this is just a proof of concept code requires several improvements and a different aproach for a real use.
+>Please note that this is just a proof of concept. Code requires several improvements and a different aproach for a real use.
