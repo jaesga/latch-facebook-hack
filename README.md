@@ -12,3 +12,4 @@ This is a smalll proof of concept to ilustrate different uses of the Latch servi
 
 > ###Disclaimer###
 >Please note that this is just a proof of concept. Code requires several improvements and a different aproach for a real use.
+This is a completely ad-hoc example that may not work with future facebook HTML changes or either in different browsers as it has only been tested on Mozilla Firefox (12/01/2015)
